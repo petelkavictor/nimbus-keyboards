@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Furniture"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ut adipisicing non amet adipisicing ea ut sint ea laboris nisi cillum. Incididunt anim exercitation fugiat ipsum minim fugiat aliqua laborum occaecat sit. Elit deserunt proident velit deserunt ex sint amet qui sit."
+						}
+					}
+				]
+			},
+			"buy_button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "listen",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
